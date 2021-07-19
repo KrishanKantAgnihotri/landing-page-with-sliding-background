@@ -9,6 +9,7 @@ var images = new Array(
 );
 var len = images.length;
 var i = 1;
+
 function slider() {
 
     if (i > len - 1) {
